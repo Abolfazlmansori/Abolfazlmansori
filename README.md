@@ -12,7 +12,7 @@
 - **Database**: MySQL
 - **Tools**: Git, Composer 
 
-## Projects I'm working on:
+## Projects I'm worked on it:
 - [Gallery Project](https://github.com/Abolfazlmansori/PhotoNest) - A simple image gallery built with PHP and Laravel
 
 <!--
