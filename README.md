@@ -1,19 +1,18 @@
 # Hi, I'm Abolfazl 👋
 
-🌱I'm currently learning programming and software development. I am working on small projects to enhance my skills in HTML , CSS , PHP and Laravel.
+🌱I'm currently learning programming and software development. I push evrything To my Github 
 
 ## Current Focus:
 - Learning **Laravel** and building a personal blog project
 - Contributing to open-source projects and learning new technologies
 
 ## Skills I'm learning:
-- **Backend**: PHP, Laravel
-- **Frontend**: HTML, CSS
+- **Backend**: PHP, Laravel , Livewire
+- **Frontend**: HTML, CSS , Tailwind
 - **Database**: MySQL
 - **Tools**: Git, Composer 
 
-## Projects I'm worked on it:
-- [Gallery Project](https://github.com/Abolfazlmansori/PhotoNest) - A simple image gallery built with PHP and Laravel
+
 
 <!--
 **Abolfazlmansori/Abolfazlmansori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
