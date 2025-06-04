@@ -27,6 +27,6 @@
 ## 🔗 Connect With Me
 
 - GitHub: [@Abolfazlmansori](https://github.com/Abolfazlmansori)
-- Email: *(you can add your email here if you want)*
+- Email: *abolfazlm9845@gmail.com*
 
 ---
